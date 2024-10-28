@@ -24,6 +24,6 @@ Using a dataset containing features like applicant Income, Loan Amount, and Cred
   5. Standardscaler
   6. labelencoder
 ## Data Preprocessing
-Handled missing values in columns by filling them with appropriate statistical measures
-created new features TotalIncome, Loan-Income-Ratio, and Debt-Income-Ratio for better model performance
-Normalized features using StandardScaler
+  -Handled missing values in columns by filling them with appropriate statistical measures
+  -created new features TotalIncome, Loan-Income-Ratio, and Debt-Income-Ratio for better model performance
+  -Normalized features using StandardScaler
